@@ -1,4 +1,4 @@
-package pers.sun.testftl.bean;
+package test.sun.testftl.bean;
 
 public class User {
 

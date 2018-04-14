@@ -1,4 +1,4 @@
-package pers.sun.testftl.controller;
+package test.sun.testftl.controller;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
-import pers.sun.testftl.bean.User;
+import test.sun.testftl.bean.User;
 
 @WebServlet("/freemarkerTest")  //  @WebServlet 是servlet3.0新特性
 public class freemarkerTest extends HttpServlet {
