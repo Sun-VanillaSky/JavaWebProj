@@ -7,3 +7,8 @@
 + 数据库版本: 5.7.21 MySQL Community Server (GPL)
 + 数据库连接池:dbcp2-2.2.0
 + JDBC:mysql-connector-java-6.0.6
+
+
+## log4j2
+
++ 配置文件：log4j2-test.xml
