@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import com.proj.common.util.HttpUtils;
 
-@WebServlet("/" )  
+@WebServlet("/index" )  
 public class IndexController  extends HttpServlet {
 
 	
