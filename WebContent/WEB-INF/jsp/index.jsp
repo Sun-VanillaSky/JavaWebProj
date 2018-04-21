@@ -13,6 +13,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>主页</title>
 
+
+
 <!-- 引入jquery -->
 <script type="text/javascript"
 	src="${pageContext.request.contextPath }/js/jquery-3.3.1.min.js"></script>
